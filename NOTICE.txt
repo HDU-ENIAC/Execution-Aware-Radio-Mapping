@@ -1,0 +1,15 @@
+Execution-Aware Radio Mapping - research code and dataset documentation
+
+Use of the authors' code or a subsequently released dataset requires citation
+of the associated paper. Citation metadata will be added after publication.
+No additional reuse or redistribution license has yet been assigned; contact
+the authors for reuse permission until final terms are published.
+
+Third-party packages retain their respective licenses and are installed
+separately. This release includes the authors' research implementations, not
+official code releases of the cited external methods.
+
+No city models, WinProp projects, raw or processed datasets, learned weights,
+measurement archives, flight traces, or prediction arrays are included.
+This notice does not grant rights to those excluded assets or to third-party
+datasets. Cloud-drive links will be added only for approved data releases.

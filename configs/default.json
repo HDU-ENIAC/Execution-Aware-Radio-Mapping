@@ -1,0 +1,17 @@
+{
+  "in_channels": 10,
+  "out_channels": 1,
+  "base_channels": 16,
+  "use_wavelet": true,
+  "use_attn": false,
+  "group_conv": false,
+  "norm_type": "batch",
+  "prior_fusion_mode": "learned_softmax",
+  "prior_channels": 2,
+  "route_context_mode": "hybrid_head",
+  "route_confidence_channel": 3,
+  "route_observation_channel": 4,
+  "append_obs_mask": false,
+  "input_feature_mode": "partial_prior_conf",
+  "input_prior_tau": 16.0
+}
